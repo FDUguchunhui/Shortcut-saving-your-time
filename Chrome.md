@@ -15,3 +15,19 @@ create new tag:
 
 restore previous closed tag
 `ctrl + shift + T`
+
+switch back to previous tag history
+`alt + left_arrow`
+
+
+switch forward to previous tag history
+`alt + right_arrow`
+
+
+# Windows
+create a new windows
+`ctrl + N`
+
+close current windows
+`alt + F4` or `ctrl + shift + w`
+
