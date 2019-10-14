@@ -31,6 +31,9 @@ create a new windows
 close current windows
 `alt + F4` or `ctrl + shift + w`
 
+use current tag to open a new window
+`alt + D` then `shift + Enter`
+
 # Cursor
 activate search bar
 `ctrl + L`
