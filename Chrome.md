@@ -13,7 +13,7 @@ close current tag
 create new tag:
 `ctrl + T`
 
-restore previous closed tag
+restore previous closed windows
 `ctrl + shift + T`
 
 switch back to previous tag history
@@ -31,3 +31,6 @@ create a new windows
 close current windows
 `alt + F4` or `ctrl + shift + w`
 
+# Cursor
+activate search bar
+`ctrl + L`
